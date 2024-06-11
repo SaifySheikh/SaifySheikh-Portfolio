@@ -279,27 +279,7 @@ export const projects = [
       },
     ],
   },
-  // {
-  //   id: 0,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //   ],
-  // },
+  
   {
     id: 1,
     title: "NayaRecruiter - Employee Management System",
@@ -321,27 +301,6 @@ export const projects = [
     github: "https://github.com/SaifySheikh/EMS_New_Repo_with_Email",
     webapp: "https://github.com/SaifySheikh/EMS_New_Repo_with_Email",
   },
-  // {
-  //   id: 2,
-  //   title: "Brain Tumor Detection",
-  //   date: "Jan 2023 - Mar 2023",
-  //   description:
-  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-  //   image:
-  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-  //   webapp: "https://brain-tumor.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //   ],
-  // },
   {
     id: 10,
     title: "Notes App",
@@ -363,25 +322,12 @@ export const projects = [
       },
       {
         name: "Himanshu Sharma",
-        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/Saifyimg.jpeg?alt=media&token=514633bd-3e69-414a-ab79-cb2e66c03905",
+        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/men.jpg?alt=media&token=e76089e4-e493-4754-8a8d-6eef3d440b2a",
         linkedin: "https://www.linkedin.com/in/himanshu-sharma-dev/",
-        github: "https://github.com/SaifySheikh",
+        github: "https://www.linkedin.com/in/himanshu-sharma-dev/",
       },
     ],
   },
-  // {
-  //   id: 4,
-  //   title: "Whatsapp Clone",
-  //   date: "Jul 2021",
-  //   description:
-  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //   webapp: "https://whatsapp-clone-rishav.web.app",
-  // },
    {
     id: 5,
     title: "Manzar Website",
@@ -394,6 +340,38 @@ export const projects = [
     category: "web app",
     github: "https://github.com/SaifySheikh/ManzarWebsite",
     webapp: "https://csebmanzar.netlify.app/",
+    member: [
+      {
+        name: "Mohammad Saify Sheikh",
+        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/Saifyimg.jpeg?alt=media&token=514633bd-3e69-414a-ab79-cb2e66c03905",
+        linkedin: "https://www.linkedin.com/in/saify-sheikh/",
+        github: "https://github.com/SaifySheikh",
+      },
+      {
+        name: "Sujal Agrawal",
+        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/sujalmember.jpg?alt=media&token=ef6b3946-9864-42c9-aed2-7eb1dc453ada",
+        linkedin: "https://www.linkedin.com/in/sujal-agrawal-655781230/",
+        github: "https://github.com/sujal1885",
+      },
+      {
+        name: "Vivek Meher",
+        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/men.jpg?alt=media&token=e76089e4-e493-4754-8a8d-6eef3d440b2a",
+        linkedin: "https://www.linkedin.com/in/vivek-meher-a19566272/",
+        github: "https://github.com/vivek9545",
+      },
+      {
+        name: "Milind Dadore",
+        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/MilindMember.jpg?alt=media&token=57ad2a7b-9913-4d32-a327-1aab9df01484",
+        linkedin: "https://www.linkedin.com/in/milind-dadore/",
+        github: "https://github.com/Milind2401",
+      },
+      {
+        name: "Godwin Shalom",
+        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/GodwinMember.jpg?alt=media&token=dfa5627b-a55d-4c29-bd53-216e9f1305a9",
+        linkedin: "https://www.linkedin.com/in/godwin410/",
+        github: "https://www.linkedin.com/in/godwin410/",
+      },
+    ],
   },
   {
     id: 6,
@@ -408,19 +386,6 @@ export const projects = [
     github: "https://github.com/SaifySheikh/PasswordX",
     webapp: "https://password-x.vercel.app/",
   },
-  // {
-  //   id: 7,
-  //   title: "Manzar Website",
-  //   date: "Aug 2023 - Sep 2023",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/SaifySheikh/ManzarWebsite",
-  //   webapp: "https://csebmanzar.netlify.app/",
-  // },
   {
     id: 8,
     title: "Sign Language to Text and Audio Conversion",
