@@ -355,7 +355,7 @@ export const projects = [
       },
       {
         name: "Vivek Meher",
-        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/men.jpg?alt=media&token=e76089e4-e493-4754-8a8d-6eef3d440b2a",
+        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/vivek.png?alt=media&token=89f2615f-cebd-4ed4-a6f7-58e7f62977ce",
         linkedin: "https://www.linkedin.com/in/vivek-meher-a19566272/",
         github: "https://github.com/vivek9545",
       },
