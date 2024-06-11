@@ -374,7 +374,7 @@ export const projects = [
       "Tired of forgetting your login credentials? PasswordX simplifies your digital life by providing a user-friendly platform to store and organize your usernames and passwords securely.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/PasswordX.png?alt=media&token=d1c45227-b06c-4e15-bae7-ed9ff6f376b8",
-    tags: ["HTML", "CSS", "Javascript"],
+    tags: ["HTML", "CSS", "Javascript","Local Storage"],
     category: "web app",
     github: "https://github.com/SaifySheikh/PasswordX",
     webapp: "https://password-x.vercel.app/",
