@@ -229,7 +229,7 @@ export const education = [
     school: "Shri Ramdeobaba College of Engineering and Management, Nagpur",
     date: "Oct 2021 - Sep 2025",
     grade: "9.56 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Shri Ramdeobaba College of Engineering and Management, Nagpur. I have completed 6 semesters and have a CGPA of 9.56. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Shri Ramdeobaba College of Engineering and Management, Nagpur. I have completed 6 semesters and have a CGPA of 9.56. I have Studied about different subjects like Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -256,7 +256,7 @@ export const projects = [
   {
     id: 9,
     title: "Portfolio",
-    date: "March 2024 - May 2024",
+    date: "April 2024 - May 2024",
     description:
       "This is My Portfolio Website showcasing my Projects, Education, Experience and skills that i gained by Learning.",
     image:
@@ -266,6 +266,7 @@ export const projects = [
       "CSS",
       "Javascript",
       "React Js",
+      "Material UI",
     ],
     category: "web app",
     github: "https://github.com/SaifySheikh/SaifySheikh-Portfolio",
