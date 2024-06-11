@@ -258,7 +258,7 @@ export const projects = [
     title: "Portfolio",
     date: "March 2024 - May 2024",
     description:
-      "This is My Portfolio Website showcasing my Skills and Laerning.",
+      "This is My Portfolio Website showcasing my Projects, Education, Experience and skills that i gained by Learning.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/Portfolio%20website.png?alt=media&token=df9ae53a-baaf-44de-ab60-4f06fbe8cbc7",
     tags: [
@@ -270,14 +270,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/SaifySheikh/SaifySheikh-Portfolio",
     webapp: "https://main--ssk-portfolio.netlify.app/",
-    member: [
-      {
-        name: "Mohammad Saify Sheikh",
-        img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/Saifyimg.jpeg?alt=media&token=514633bd-3e69-414a-ab79-cb2e66c03905",
-        linkedin: "https://www.linkedin.com/in/saify-sheikh/",
-        github: "https://github.com/SaifySheikh",
-      },
-    ],
   },
   
   {
