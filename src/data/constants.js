@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and adaptable person who loves taking on new challenges. I enjoy learning and always strive to deliver great results. With a positive attitude and a growth mindset, I am ready to contribute and achieve great things.",
   github: "https://github.com/SaifySheikh",
   resume:
-    "https://drive.google.com/file/d/1-ogCYh0vUT894wHJqLEtyEnOng00xfut/view?usp=sharing",
+    "https://drive.google.com/file/d/1DEx8ZRU9-b3YgViMqzRfanwYVFmRRvL9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/saify-sheikh/",
   twitter: "https://x.com/Saify_Sheikh_1",
   insta: "https://www.instagram.com/saify_sheikh_1/",
