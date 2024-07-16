@@ -234,7 +234,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://firebasestorage.googleapis.com/v0/b/dilasaimg.appspot.com/o/Jai%20hind%20college.png?alt=media&token=91d70cee-0056-4ae9-9bad-1c65a797a07f",
     school: "Jai Hind Junoiur College of Science, Chandrapur",
     date: "Jun 2019 - Jun 2021",
     grade: "92.5%",
